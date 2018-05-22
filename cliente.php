@@ -1,4 +1,4 @@
 <?php 
 
 
-echo "programa cliente";
+echo "programa clientel";
